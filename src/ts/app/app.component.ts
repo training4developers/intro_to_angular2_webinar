@@ -2,17 +2,8 @@ import { Component } from "@angular/core";
 
 @Component({
     selector: "color-tool",
-    template: `
-        <h1>{{header}}</h1>
-        <item-list [items]="colors"></item-list>
-        <form>
-            <div>
-                <label for="new-color-input">New Color</label>
-                <input type="text" id="new-color-input" name="newColorInput" [(ngModel)]="newColor">
-            </div>
-            <button type="button" (click)="addColor()">Add Color</button>
-        </form>
-    `,
+    template: require("./app.component.html"),
+    styles: [ require("./app.component.scss") ],
 })
 export class AppComponent {
 
