@@ -1,8 +1,8 @@
-# Angular 2 Widgets Sample Application
+# Angular 2 Sample Starter Application
 
 ## Overview
 
-This is a simple CRUD (create, read, update & delete) application demonstrating the essentials of Angular 2 including HTTP services, routing, forms, composing components and unit testing. The base project configuration was originally adapted from the [Angular 2 Webpack Starter project](https://angular.io/docs/ts/latest/guide/webpack.html), and has been updated to Webpack 2 with help from this project [Angular Class - Angular 2 Webpack Stater](https://github.com/AngularClass/angular2-webpack-starter).
+The base project configuration was originally adapted from the [Angular 2 Webpack Starter project](https://angular.io/docs/ts/latest/guide/webpack.html), and has been updated to Webpack 2 with help from this project [Angular Class - Angular 2 Webpack Stater](https://github.com/AngularClass/angular2-webpack-starter).
 
 ## Application Setup
 
